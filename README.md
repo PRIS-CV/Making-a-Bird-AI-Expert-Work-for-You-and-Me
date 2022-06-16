@@ -3,6 +3,7 @@
 Code release for "Making a Bird AI Expert Work for You and Me".
 [arxiv](https://dongliangchang.cn "arxiv")
 
+You can try our questionnaire at: https://reurl.cc/AKdv6K
 
 ## Changelog
 - 2021/12/6 create this project.
