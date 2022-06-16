@@ -3,16 +3,41 @@
 Code release for "Making a Bird AI Expert Work for You and Me".
 [arxiv](https://dongliangchang.cn "arxiv")
 
-(Coming soon...)
 
 ## Changelog
 - 2021/12/6 create this project.
+- 2022/6/16 update codes for training and visualization.
 
 ## Dataset
 ### CUB-200-2011
+Please download the datatset and organize the structure as follows:
+```
+dataset
+├── train
+│   ├── 001
+|   |      ├── 1.jpg
+|   |      ├── 2.jpg
+|   |      └── ...
+│   ├── 002
+|   |      ├── 1.jpg
+|   |      ├── 2.jpg
+|   |      └── ...
+│   └── ...
+└── test
+    ├── 001
+    |      ├── 1.jpg
+    |      ├── 2.jpg
+    |      └── ...
+    ├── 002
+    |      ├── 1.jpg
+    |      ├── 2.jpg
+    |      └── ...
+    └── ...
+```
 
-
-
+## Training
+Please train the model with:
+> python main.py
 
 ## Contact
 Thanks for your attention!
