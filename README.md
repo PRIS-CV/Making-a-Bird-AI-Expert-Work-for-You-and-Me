@@ -36,8 +36,12 @@ dataset
 ```
 
 ## Training
-Please train the model with:
+Train from scratch with:
 > python main.py
+
+## Visualization
+Obtain visualization results with:
+> python visualization.py
 
 ## Contact
 Thanks for your attention!
