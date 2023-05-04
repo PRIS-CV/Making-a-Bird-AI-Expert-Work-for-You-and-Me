@@ -1,7 +1,7 @@
 # Making-a-Bird-AI-Expert-Work-for-You-and-Me
 
 Code release for "Making a Bird AI Expert Work for You and Me".
-[arxiv](https://dongliangchang.cn "arxiv")
+[TPAMI 2023](https://dongliangchang.cn "arxiv")
 
 You can try our questionnaire at: https://reurl.cc/AKdv6K
 
